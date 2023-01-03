@@ -4,9 +4,9 @@ install: go.sum
 		export GOFLAGS='-buildmode=pie'
 		export CGO_CPPFLAGS="-D_FORTIFY_SOURCE=2"
 		export CGO_LDFLAGS="-Wl,-z,relro,-z,now -fstack-protector"
-		go install $(BUILD_FLAGS) ./cmd/interchain-security-pd
-		go install $(BUILD_FLAGS) ./cmd/interchain-security-cd
-		go install $(BUILD_FLAGS) ./cmd/interchain-security-cdd
+		go install $(BUILD_FLAGS) ./cmd/fury-spd
+		go install $(BUILD_FLAGS) ./cmd/kaiju-scd
+		go install $(BUILD_FLAGS) ./cmd/mokita-cxd
 
 # run all tests: unit, e2e, diff, and integration
 test: 
