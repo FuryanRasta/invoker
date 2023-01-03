@@ -115,9 +115,9 @@ import (
 )
 
 const (
-	AppName              = "interchain-security-p"
+	AppName              = "fury-spd"
 	upgradeName          = "v07-Theta"
-	AccountAddressPrefix = "cosmos"
+	AccountAddressPrefix = "fury"
 )
 
 // this line is used by starport scaffolding # stargate/wasm/app/enabledProposals

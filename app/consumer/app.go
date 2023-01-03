@@ -88,9 +88,9 @@ import (
 )
 
 const (
-	AppName              = "interchain-security-c"
+	AppName              = "mokita-scd"
 	upgradeName          = "v07-Theta"
-	AccountAddressPrefix = "cosmos"
+	AccountAddressPrefix = "mokita"
 )
 
 var (

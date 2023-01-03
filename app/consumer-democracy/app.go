@@ -112,9 +112,9 @@ import (
 )
 
 const (
-	AppName              = "interchain-security-cd"
+	AppName              = "kaiju-svd"
 	upgradeName          = "v07-Theta"
-	AccountAddressPrefix = "cosmos"
+	AccountAddressPrefix = "kaiju"
 )
 
 var (
