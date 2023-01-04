@@ -88,7 +88,7 @@ import (
 )
 
 const (
-	AppName              = "mokita-scd"
+	AppName              = "mokita-c"
 	upgradeName          = "v07-Theta"
 	AccountAddressPrefix = "mokita"
 )

@@ -7,7 +7,7 @@ BIN=$1
 # JSON array of validator information
 # [{
 #     mnemonic: "crackle snap pop ... etc",
-#     allocation: "10000000000stake,10000000000footoken",
+#     allocation: "10000000000stake,10000000000ufury",
 #     stake: "5000000000stake",
 #     val_id: "alice",
 #     ip_suffix: "1",

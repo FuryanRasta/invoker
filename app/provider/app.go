@@ -115,7 +115,7 @@ import (
 )
 
 const (
-	AppName              = "fury-spd"
+	AppName              = "fury-p"
 	upgradeName          = "v07-Theta"
 	AccountAddressPrefix = "fury"
 )

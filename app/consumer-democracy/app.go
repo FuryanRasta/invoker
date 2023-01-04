@@ -112,7 +112,7 @@ import (
 )
 
 const (
-	AppName              = "kaiju-svd"
+	AppName              = "kaiju-x"
 	upgradeName          = "v07-Theta"
 	AccountAddressPrefix = "kaiju"
 )
